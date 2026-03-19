@@ -1,0 +1,5 @@
+{
+  "name": "FCST SO Accuracy ",
+  "description": "App merge data từ nhiều file excel thành 1 file excel FCST SO Accuracy với các quy tắc tra cứu và biến đổi phức tạp.",
+  "requestFramePermissions": []
+}
